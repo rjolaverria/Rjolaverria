@@ -1,9 +1,31 @@
-### Hey, I'm Rafi 👋
-*...and i love to build stuff*
+# Hey, I'm Rafi 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-delta-five-32.vercel.app/api?username=rjolaverria&show=reviews,prs_merged,prs_merged_percentage" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?hide=jupyter%20notebook&username=rjolaverria&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" />
-</a>
+I'm a Senior AI Engineer and Technical Lead building production agents, MCP infrastructure, evaluation systems, and developer tools.
+
+I work across technical discovery, architecture, backend implementation, observability, and iteration with real users. I care about making AI systems reliable, understandable, and useful beyond the prototype stage.
+
+## What I build
+
+- Production LLM agents and human-in-the-loop workflows
+- MCP servers, clients, gateways, and LLM-optimized tool interfaces
+- Evaluation, tracing, and observability infrastructure for AI systems
+- Open-source developer tools in TypeScript and Python
+
+## Featured projects
+
+| Project | What it does |
+| --- | --- |
+| [Toolbx](https://github.com/rjolaverria/toolbx) | A local MCP gateway that centralizes server configuration across Claude Code, Codex, OpenCode, and other MCP clients. |
+| [llm-agent-loop](https://github.com/rjolaverria/llm-agent-loop) | A zero-dependency, provider-agnostic TypeScript runtime for observable and controllable LLM agent loops. |
+| [ctxman](https://github.com/rjolaverria/ctxman) | A terminal UI for managing context files across AI coding agents. |
+| [agentic-document-extraction](https://github.com/rjolaverria/agentic-document-extraction) | A vision-first FastAPI service for extracting structured data from documents with AI and OCR. |
+
+I also contributed a merged error-handling fix to [FastMCP](https://github.com/PrefectHQ/fastmcp/pull/2674).
+
+## Technologies
+
+TypeScript · Python · MCP · FastMCP · LangGraph · Pydantic AI · Vercel AI SDK · OpenAI · Anthropic · Gemini · AWS · PostgreSQL · Docker · Kubernetes
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rafiolaverria)
