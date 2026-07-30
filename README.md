@@ -20,8 +20,6 @@ I work across technical discovery, architecture, backend implementation, observa
 | [ctxman](https://github.com/rjolaverria/ctxman) | A terminal UI for managing context files across AI coding agents. |
 | [agentic-document-extraction](https://github.com/rjolaverria/agentic-document-extraction) | A vision-first FastAPI service for extracting structured data from documents with AI and OCR. |
 
-I also contributed a merged error-handling fix to [FastMCP](https://github.com/PrefectHQ/fastmcp/pull/2674).
-
 ## Technologies
 
 TypeScript · Python · MCP · FastMCP · LangGraph · Pydantic AI · Vercel AI SDK · OpenAI · Anthropic · Gemini · AWS · PostgreSQL · Docker · Kubernetes
